@@ -1,5 +1,5 @@
 # Paisan.py
-# By Paisan Khonjumpa (c) May 2015
+# By Paisan Khonjumpa (c) September 2015
 
 # import sys
 import a as myLamda
